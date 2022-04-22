@@ -1,2 +1,3 @@
 console.log('b2 branch')
-alert('hello')
+confirm('confirm your result')
+
