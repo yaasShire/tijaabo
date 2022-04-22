@@ -1,3 +1,4 @@
 console.log('b2 branch')
 confirm('confirm your result')
+prompt('waamaxay magacaaga')
 
